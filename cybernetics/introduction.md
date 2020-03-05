@@ -1,3 +1,3 @@
 # Cybernetics
 
-###### `Introduction` - `Definitions` - `Communication` - `Systems` - `Information` - `Complexity` - `Entropy` - `Feedback Loops`
+###### `Introduction` - `Definitions` - `Communication` - `Systems` - `Information` - `Complexity` - `Entropy` - `Feedback`
