@@ -32,7 +32,19 @@ To read Debord:
 
 <h2> The Conquest of Space in the Time of Power by Eduardo Roth (1969) </h2>
 
+1. The commodity and the spectacle is nothing other than capitalized knowledge, fetishism of idea and method, alienated image of human thought. Pseudogreatness of man, its passive knowledge of a mediocre reality is the magical justification of a race of slaves.
 
+2. Science sings in numerals of the grandeur of the human race, but it is in fact nothing other than the organized sum of man’s limitations and alienations.
+
+3. Anti-"life" --> Industry was intended to free people from work through machinery but so far has done nothing but alienate them in the work of the machines. Science was intended to free people historically and rationally from nature but has done nothing but alienate them in an irrational and antihistorical society. Mercenary of separate thought, science works for survival and therefore cannot conceive of life except as a mechanical or moral formula. **It does not conceive of man as subject, nor of human thought as action, and it is for this reason that it does not comprehend history as deliberate activity.**
+
+4. Gatekeeping --> the scientific profession jealously guards the laws of its guild and the “Machina ex Deo” secrets that make it a despicable sect. It is hardly surprising, for example, that doctors--those repairmen of labor-power--have illegible handwriting: it is part of the police code of monopolized survival.
+
+5. The present impossibility of scientific research and application without enormous means has effectively placed spectacularly concentrated knowledge in the hands of the ruling powers and has steered it toward statist objectives. There is no longer any science that is not in the service of the economy, the military and ideology. And the science of ideology reveals its other side, the ideology of science.
+
+6. Power, which cannot tolerate a vacuum, has never forgiven the celestial regions for being terrains left open to the imagination. Since the origin of class society the unreal source of separate power has always been placed in the skies. When the state justified itself religiously, heaven was included in the time of religion; now that the state wishes to justify itself scientifically, the sky is in the space of science. From Galileo to Werner von Braun, it is nothing but a question of state ideology: **Religion wished to preserve its time, therefore no one was allowed to tamper with its space. Faced with the impossibility of prolonging its time, power must make its space boundless.**
+
+11. But the revolutionary old mole, which is now gnawing at the foundations of the system, will destroy the barriers that separate science from the general knowledge that will be accessible to everyone when people finally begin making their own history. No more ideas of separate power, no more power of separate ideas. Generalized self-management of the permanent transformation of the world by the masses will make science a basic banality, and no longer a truth of state. 
 
 
 
